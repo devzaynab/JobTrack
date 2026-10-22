@@ -1,0 +1,1 @@
+export const statuses = ['Applied', 'Interview', 'Assessment', 'Offer', 'Rejected', 'Withdrawn']
